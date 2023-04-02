@@ -1,0 +1,11 @@
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\bin\Debug\13pr.exe.config
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\bin\Debug\13pr.exe
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\bin\Debug\13pr.pdb
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.csproj.AssemblyReference.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.csproj.SuggestedBindingRedirects.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\_13pr.Form1.resources
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\_13pr.Properties.Resources.resources
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.csproj.GenerateResource.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.csproj.CoreCompileInputs.cache
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.exe
+C:\Users\325L-05\Desktop\Харсевич ПР-21\Пт Пм\13pr\obj\Debug\13pr.pdb
